@@ -49,7 +49,6 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 More
 </summary>
 
-<br />
 
 ### My Tech Journey
 <div style="text-align: justify">
