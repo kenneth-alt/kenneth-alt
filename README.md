@@ -51,6 +51,15 @@ More
 
 <br />
 
+### My Tech Journey
+<div style="text-align: justify">
+After 4 years of experience working on engineering projects, I made a career transition to DevOps and cloud computing in 2020, giving me the opportunity to finally explore my deeply-rooted interest in technology that had remained latent until then. I am super passionate about troubleshooting and problem-solving, and have a lifelong learning attitude as a personal culture. 
+
+Over the last 3 years, I have progressively built my skills and experience in DevOps, cloud services and Agile software development. My toolbox includes: AWS and Azure cloud services, CI/CD (Jenkins, GitHub actions, Gitlabs), Infrastructure as code (Terraform), microservices and containerization (Docker), container orchestration (kubernetes), scripting (bash, python), configuration management (Ansible), observability and monitoring (Prometheus, Grafana, ELK), software development (JavaScript, Node.js, express, MongoDB), networking and security.
+
+In addition, I have a proven record of team collaboration and effective communication, a very solid experience using Linux and windows servers, git version control, as well as in-depth understanding of virtualization, load balancing, certificates, and routing. My best asset yet is my ability to learn fast, aptitude for continuously improvement and staying up to date with new technologies and industry best practices.
+</div>
+
 #### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
