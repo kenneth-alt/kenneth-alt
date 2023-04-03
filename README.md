@@ -1,6 +1,5 @@
 
 
-
 With over three years of experience as a Cloud DevOps Engineer, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
 
 
