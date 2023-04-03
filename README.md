@@ -1,6 +1,6 @@
-## Hi, I'm Kenneth
+## Hi, I'm Kenneth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-With over four years of experience as a Cloud DevOps Engineer, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
+A Cloud DevOps Engineer with over four years of experience, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
 
 
 - 🔭 I’m currently working on a full stack project using the MERN stack and hosting on AWS and Azure cloud.
@@ -20,7 +20,6 @@ With over four years of experience as a Cloud DevOps Engineer, I have honed my a
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&labelColor=black&logo=terraform&logoColor=white)](#) 
 [![Ansible Badge](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&labelColor=black&logo=ansible&logoColor=white)](#)
 [![Bash Scripting Badge](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
-
 
 
 
