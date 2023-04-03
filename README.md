@@ -4,7 +4,7 @@ With over four years of experience as a Cloud DevOps Engineer, I have honed my a
 
 
 - 🔭 I’m currently working on a full stack project using the MERN stack and hosting on AWS and Azure cloud.
-- 🌱 I’m currently learning React, Express, Flask.
+- 🌱 I’m currently learning React Native, Flask.
 - 👯 I’m looking to collaborate on DevOps Projects.
 - 💬 Ask me about DevOps, Infrastructure, Automation and Monitoring.
 - ⚡ Fun fact: I could explain to you how jet engines work, like a 5 years old.
