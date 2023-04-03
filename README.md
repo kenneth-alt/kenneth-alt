@@ -47,4 +47,4 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 
 
 
-[gmail]: mailto:youremail@example.com
+[gmail]: mailto:kenneth.ugo15@gmail.com
