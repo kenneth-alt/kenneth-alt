@@ -41,10 +41,4 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 
 
 ### Reach out to me
-
-[<img align="left" alt="Gmail icon" width="36px" src="icons/gmail-icon.png" />][gmail] 
-
-
-
-
-[gmail]: mailto:kenneth.ugo15@gmail.com
+ [![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
