@@ -4,6 +4,8 @@
 A Cloud DevOps Engineer with over four years of experience, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
 </div>
 
+<br />
+
 - 🔭 I’m currently working on a full stack project using the MERN stack and hosting on AWS and Azure cloud.
 - 🌱 I’m currently learning React Native, Flask.
 - 👯 I’m looking to collaborate on DevOps Projects.
@@ -24,9 +26,6 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
 [![Virtualization Badge](https://img.shields.io/badge/-Virtualization-183A61?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=white)](#)
 [![Monitoring Badge](https://img.shields.io/badge/-Monitoring-4D4D4D?style=for-the-badge&labelColor=black&logo=grafana&logoColor=white)](#)
-
-
-
 
 
 ## Programming Stack
