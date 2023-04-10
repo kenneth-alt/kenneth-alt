@@ -10,7 +10,7 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 - 🌱 I’m currently learning React Native, Flask.
 - 👯 I’m looking to collaborate on DevOps Projects.
 - 💬 Ask me about DevOps, Infrastructure, Automation and Monitoring.
-- ⚡ Fun fact: I dream about flying a jet, I could explain to you how jet engines work, like a 5 years old.
+- ⚡ Fun fact: I dream about flying a jet, I could explain to you how control surfaces work, like a 5 years old.
 
 ## Top Technologies
 
