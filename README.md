@@ -1,15 +1,15 @@
 ## Hi, I'm Kenneth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <div style="text-align: justify">
-A Cloud DevOps Engineer with over four years of experience, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
+A Cloud DevOps and Software Developer with over four years of experience, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
 </div>
 
 <br />
 
 - 🔭 I’m currently working on a full stack project using the MERN stack and hosting on AWS and Azure cloud.
-- 🌱 I’m currently learning React Native, Flask.
-- 👯 I’m looking to collaborate on DevOps Projects.
-- 💬 Ask me about DevOps, Infrastructure, Automation and Monitoring.
+- 🌱 I’m currently learning Flask.
+- 👯 I’m looking to collaborate on DevOps and Cloud Projects.
+- 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
 - ⚡ Fun fact: I dream about flying a jet, I could explain to you how jet engines work, like a 5 years old.
 
 ## Top Technologies
@@ -43,14 +43,13 @@ A Cloud DevOps Engineer with over four years of experience, I have honed my abil
 ### Reach out to me
  [![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
 
+<br />
 
 <details>
 <summary>
-More
+My Tech Journey
 </summary>
-
-
-### My Tech Journey
+<br />
 <div style="text-align: justify">
 After 4 years of experience working on engineering projects, I made a career transition to DevOps and cloud computing in 2020, giving me the opportunity to finally explore my deeply-rooted interest in technology that had remained latent until then. I am super passionate about troubleshooting and problem-solving, and have a lifelong learning attitude as a personal culture. 
 </div>
@@ -62,7 +61,17 @@ Over the last 3 years, I have progressively built my skills and experience in De
 <div style="text-align: justify">
 In addition, I have a proven record of team collaboration and effective communication, a very solid experience using Linux and windows servers, git version control, as well as in-depth understanding of virtualization, load balancing, certificates, and routing. My best asset yet is my ability to learn fast, aptitude for continuously improvement and staying up to date with new technologies and industry best practices.
 </div>
+</details>
 
-#### Coding Stats
+<br />
+
+<details>
+<summary>
+Coding Stats
+</summary>
+<br />
+<p align="center">
+    <img src="https://wakatime.com/share/@e00ffb18-339e-46cf-bc5c-f7a3b03ed8e7/7d44326e-bbdc-485a-8074-35a67058d867.svg" height="400"/>
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
