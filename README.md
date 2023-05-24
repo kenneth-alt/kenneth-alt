@@ -47,7 +47,7 @@ A Cloud DevOps and Software Developer with over four years of experience, I have
 
 <details>
 <summary>
-My Tech Journey
+My Tech Journey (click)
 </summary>
 <br />
 <div style="text-align: justify">
@@ -67,7 +67,7 @@ In addition, I have a proven record of team collaboration and effective communic
 
 <details>
 <summary>
-Coding Stats
+My Coding Stats (click)
 </summary>
 <br />
 <p align="center">
