@@ -8,8 +8,8 @@ A Cloud DevOps and Software Developer with over four years of experience, I have
 
 - 🔭 I’m currently working on a full stack project using the MERN stack and hosting on AWS and Azure cloud.
 - 🌱 I’m currently learning React Native, Flask.
-- 👯 I’m looking to collaborate on DevOps Projects.
-- 💬 Ask me about DevOps, Infrastructure, Automation and Monitoring.
+- 👯 I’m looking to collaborate on DevOps and Cloud Projects.
+- 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
 - ⚡ Fun fact: I dream about flying a jet, I could explain to you how jet engines work, like a 5 years old.
 
 ## Top Technologies
