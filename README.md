@@ -26,7 +26,7 @@ A Cloud DevOps and Software Developer with over four years of experience, I have
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
 [![Virtualization Badge](https://img.shields.io/badge/-Virtualization-183A61?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=white)](#)
 [![Microservices Badge](https://img.shields.io/badge/-Microservices-2ECC71?style=for-the-badge&labelColor=black)](#)
-
+[![Containerization Badge](https://img.shields.io/badge/-Containerization-3498DB?style=for-the-badge&labelColor=black)](#)
 [![Monitoring Badge](https://img.shields.io/badge/-Monitoring-4D4D4D?style=for-the-badge&labelColor=black&logo=grafana&logoColor=white)](#)
 
 
