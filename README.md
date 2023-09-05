@@ -60,11 +60,11 @@ My Tech Journey (click)
 </summary>
 <br />
 <div style="text-align: justify">
-After 4 years of experience working on engineering projects, I made a career transition to DevOps and cloud computing in 2020, giving me the opportunity to finally explore my deeply-rooted interest in technology that had remained latent until then. I am super passionate about troubleshooting and problem-solving, and have a lifelong learning attitude as a personal culture. 
+After 4 years of experience working on engineering projects, I made a career transition to Software development, DevOps and cloud computing in 2018, giving me the opportunity to finally explore my deeply-rooted interest in technology that had remained latent until then. I am super passionate about technology and problem-solving, and have a lifelong learning attitude as a personal culture. 
 </div>
 <br />
 <div style="text-align: justify">
-Over the last 3 years, I have progressively built my skills and experience in DevOps, cloud services and Agile software development. My toolbox includes: AWS and Azure cloud services, CI/CD (Jenkins, GitHub actions, Gitlabs), Infrastructure as code (Terraform), microservices and containerization (Docker), container orchestration (kubernetes), scripting (bash, python), configuration management (Ansible), observability and monitoring (Prometheus, Grafana, ELK), software development (JavaScript, Node.js, express, MongoDB), networking and security.
+My programming expertise includes JavaScript, Node.js, React, Express, MongoDB, Python, Flask, and MySQL. I have hands-on DevOps experience working with CI/CD pielines, cloud services, Docker, Kubernetes, and RESTful APIs. Additionally, I have a strong understanding of AWS and Azure cloud ecosystems, and I am proficient in infrastructure as code using Terraform and CloudFormation, configuration management with Ansible and scripting and automation using Bash and Python.
 </div>
 <br />
 <div style="text-align: justify">
