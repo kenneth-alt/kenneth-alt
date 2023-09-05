@@ -6,7 +6,7 @@ A Cloud DevOps and Software Developer with over four years of experience, I have
 
 <br />
 
-- 🔭 I’m currently working on a Linux image OS hardening to CIS guidelines.
+- 🔭 I’m currently working on a Linux image OS hardening to CIS guidelines and RestAPI development.
 - 🌱 I’m currently learning Terragrunt, Vector databases.
 - 👯 I’m looking to collaborate on Web development, DevOps and Cloud Projects.
 - 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
