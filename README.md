@@ -38,6 +38,10 @@ A Cloud DevOps and Software Developer with over four years of experience, I have
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
+[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)
+[![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=sql&logoColor=white)](#)
+[![REST API Badge](https://img.shields.io/badge/-REST%20API-336791?style=for-the-badge&labelColor=black&logo=api&logoColor=white)](#)
 [![Git/GitHub Badge](https://img.shields.io/badge/-Git/GitHub-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 [![Agile/Scrum Badge](https://img.shields.io/badge/-Agile/Scrum-0093D0?style=for-the-badge&labelColor=black&logo=agile&logoColor=white)](#)
 
