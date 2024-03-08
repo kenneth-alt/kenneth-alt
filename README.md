@@ -6,51 +6,86 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 
 <br />
 
-- 🔭 I’m currently working on a Linux image OS hardening to CIS guidelines and RestAPI development.
-- 🌱 I’m currently learning Terragrunt, Vector databases.
-- 👯 I’m looking to collaborate on Web development, DevOps and Cloud Projects.
+- 🔭 I’m currently working on a Simplified test deployment environment for developers, open source contributions and RestAPI development.
+- 🌱 I’m currently learning Data Engineering integration and Big data infrastructure.
+- 👯 I’m looking to collaborate on Web development, DevOps Cloud & Data Engineering Projects.
 - 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
 - ⚡ Fun fact about me: I dream about flying a jet, I could explain to you how control surfaces work, like a 5 years old.
 
 ## Top Technologies
 
-[![AWS Cloud Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#) 
-[![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)](#) 
-[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=white)](#) 
+### Cloud Services
+
+[![AWS Cloud Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
+[![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)](#)
+[![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)](#)
+
+### CI/CD
+
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=white)](#)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=white)](#)
-[![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=github-actions&logoColor=white)](#) 
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#) 
-[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white)](#) 
-[![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&labelColor=black&logo=terraform&logoColor=white)](#) 
+[![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=github-actions&logoColor=white)](#)
+
+### Microservices and Containerization
+
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)](#)
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white)](#)
+
+### Infrastructure as Code & Configuration Management
+
+[![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&labelColor=black&logo=terraform&logoColor=white)](#)
 [![Ansible Badge](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&labelColor=black&logo=ansible&logoColor=white)](#)
 [![Helm Badge](https://img.shields.io/badge/-Helm-277A9F?style=for-the-badge&labelColor=black&logo=helm&logoColor=white)](#)
-[![Bash Scripting Badge](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
-[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
-[![Virtualization Badge](https://img.shields.io/badge/-Virtualization-183A61?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=white)](#)
-[![Microservices Badge](https://img.shields.io/badge/-Microservices-2ECC71?style=for-the-badge&labelColor=black)](#)
-[![Containerization Badge](https://img.shields.io/badge/-Containerization-3498DB?style=for-the-badge&labelColor=black)](#)
-[![Monitoring Badge](https://img.shields.io/badge/-Monitoring-4D4D4D?style=for-the-badge&labelColor=black&logo=grafana&logoColor=white)](#)
 
+### Server Management & Monitoring
+
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
+[![Bash Scripting Badge](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
+[![Prometheus-Grafana Badge](https://img.shields.io/badge/-Prometheus--Grafana-4D4D4D?style=for-the-badge&labelColor=black&logo=grafana&logoColor=F46800)](#)
 
 ## Programming Stack
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+### Languages
+
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
+
+### Backend Frameworks
+
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
+[![Nest.js Badge](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
+
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)
+
+### Frontend Frameworks
+
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=000000)](#)
+
+### Databases and ORMs
+
 [![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=sql&logoColor=white)](#)
+[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
 [![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
-[![REST API Badge](https://img.shields.io/badge/-REST%20API-336791?style=for-the-badge&labelColor=black&logo=api&logoColor=white)](#)
+
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
+[![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
+
+[![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
+[![Mongoose Badge](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=880000)](#)
+
+### Tools
+
 [![Git/GitHub Badge](https://img.shields.io/badge/-Git/GitHub-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 [![Agile/Scrum Badge](https://img.shields.io/badge/-Agile/Scrum-0093D0?style=for-the-badge&labelColor=black&logo=agile&logoColor=white)](#)
 
+## Reach out to me
 
-### Reach out to me
- [![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
 
 <br />
 
