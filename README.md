@@ -12,7 +12,12 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 - 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
 - ⚡ Fun fact about me: I dream about flying a jet, I could explain to you how control surfaces work, like a 5 years old.
 
-## Top Skills/Technologies
+## My Top Skills/Technologies
+
+<details>
+<summary>
+<b>DevOps, Cloud & Infrastructure</b> (click to dropdown)
+</summary>
 
 #### Cloud Services
 
@@ -43,7 +48,14 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 [![Bash Scripting Badge](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
 [![Prometheus-Grafana Badge](https://img.shields.io/badge/-Prometheus--Grafana-4D4D4D?style=for-the-badge&labelColor=black&logo=grafana&logoColor=F46800)](#)
 
-## Programming Stack
+</details>
+
+<br />
+
+<details>
+<summary>
+<b>Programming Stack</b> (click to dropdown)
+</summary>
 
 #### Languages
 
@@ -83,9 +95,7 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 [![Git/GitHub Badge](https://img.shields.io/badge/-Git/GitHub-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 [![Agile/Scrum Badge](https://img.shields.io/badge/-Agile/Scrum-0093D0?style=for-the-badge&labelColor=black&logo=agile&logoColor=white)](#)
 
-## Reach out to me
-
-[![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
+</details>
 
 <br />
 
@@ -119,3 +129,8 @@ My Coding Stats (click)
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
+
+## Reach out to me
+
+[![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
