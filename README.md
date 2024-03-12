@@ -68,7 +68,6 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=white)](#)
 [![Nest.js Badge](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
-
 [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)
@@ -83,7 +82,6 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 [![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=sql&logoColor=white)](#)
 [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
 [![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
-
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 [![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
 
