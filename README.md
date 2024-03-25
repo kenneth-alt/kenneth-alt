@@ -1,12 +1,12 @@
 ## Hi, I'm Kenneth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <div style="text-align: justify">
-A Cloud DevOps and Software Developer with over 8 years of IT experience, I have honed my ability to balance autonomy and teamwork, effectively utilizing cloud services and DevOps tools to manage complex systems and exceed expectations. I am committed to continuous learning and improvement, and approach problem-solving with a self-driven mindset, while also collaborating effectively with any team.
+Software Developer, Cloud/Infrastructure Architect and DevOps Engineer with over 8 years of IT experience.
 </div>
 
 <br />
 
-- 🔭 I’m currently working on a Simplified test deployment environment for developers, open source contributions and RestAPI development.
+- 🔭 I’m currently working on a Simplified test deployment environment for developers, and open source contributions.
 - 🌱 I’m currently learning Data Engineering integration and Big data infrastructure.
 - 👯 I’m looking to collaborate on Web development, DevOps Cloud & Data Engineering Projects.
 - 💬 Ask me about DevOps, Cloud Infrastructure, Automation and Monitoring.
@@ -14,10 +14,13 @@ A Cloud DevOps and Software Developer with over 8 years of IT experience, I have
 
 ## My Top Skills/Technologies
 
-<details>
-<summary>
-<b>DevOps, Cloud & Infrastructure</b> (click to dropdown)
-</summary>
+Skills
+
+Tools
+
+Certifications
+
+<b>DevOps, Cloud & Infrastructure</b>
 
 #### Cloud Services
 
@@ -131,6 +134,6 @@ My Coding Stats (click)
 <!--END_SECTION:waka-->
 </details>
 
-## Reach out to me
+<!-- ## Reach out to me
 
-[![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-kenneth.ugo15@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kenneth.ugo15@gmail.com) -->
